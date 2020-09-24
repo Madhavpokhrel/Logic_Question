@@ -1,0 +1,9 @@
+
+function greaterPart(n){
+
+	var greaterNumber;
+	alert(greaterNumber);
+
+}
+
+greaterPart(32.45);
